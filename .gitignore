@@ -1,0 +1,9 @@
+.idea
+my-app.iml
+target
+echo .project
+bin
+.project
+.classpath
+classes
+.settings
